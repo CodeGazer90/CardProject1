@@ -1,0 +1,35 @@
+/* add your CSS here */
+.penguin{
+    max-width: 300px;
+    
+}
+
+.card{
+    max-width: 300px;
+    background-color: rgba(223, 125, 179, 0.171);;
+    border: 1px solid rgb(100, 94, 94);
+    padding: 15px ;
+    box-shadow: 7px 7px rgb(180, 172, 172);
+    /* rgba(223, 125, 179, 0.493); */
+}
+
+.description1{
+    font-style: italic;
+}
+
+span{
+    font-weight: bold;
+}
+
+li{
+    list-style: none;
+}
+
+.info{
+    border: 1px solid rgb(180, 172, 172);
+}
+
+h3{
+    font-size: 34px;
+
+}
